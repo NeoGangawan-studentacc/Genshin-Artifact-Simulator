@@ -1,6 +1,6 @@
 # Genshin Artifact Farming Simulator
 
-code is based by Jyo's Spiral Abyss Guides on YouTube - https://www.youtube.com/@jyolikearock_
+code is based by Jyo's Spiral Abyss Guides on YouTube - (https://www.youtube.com/@jyolikearock_)
 
 video - https://www.youtube.com/watch?v=qUYkV5wdQ1w
 
